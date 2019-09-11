@@ -11,3 +11,5 @@ Twitter DNS Blocklist for Pihole.
 5. Paste the URL in the Edit box and click on Save and update
 
 You're done.
+
+> Inspired by [imkarthikk/pihole-facebook](https://github.com/imkarthikk/pihole-facebook)
