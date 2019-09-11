@@ -1,0 +1,12 @@
+# Block twitter with pihole
+0.0.0.0 abs-0.twimg.com
+0.0.0.0 abs.twimg.com
+0.0.0.0 api.twitter.com
+0.0.0.0 cdn.cms-twdigitalassets.com
+0.0.0.0 fonts.twitter.com
+0.0.0.0 help.twitter.com
+0.0.0.0 pbs.twimg.com
+0.0.0.0 platform.twitter.com
+0.0.0.0 syndication.twitter.com
+0.0.0.0 twitter.com
+0.0.0.0 www.twitter.com
