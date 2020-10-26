@@ -10,3 +10,9 @@
 0.0.0.0 syndication.twitter.com
 0.0.0.0 twitter.com
 0.0.0.0 www.twitter.com
+0.0.0.0 twitter.co.uk
+0.0.0.0 www.twitter.co.uk
+0.0.0.0 twitter.com.au
+0.0.0.0 www.twitter.com.au
+0.0.0.0 twitter.co
+0.0.0.0 www.twitter.co
