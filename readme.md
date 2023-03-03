@@ -1,6 +1,6 @@
 # pihole-twitter
 
-Twitter DNS Blocklist for Pihole.
+Twitter DNS Blocklist for Pihole. This list blocks Twitter in it's entirety, not just ads or tracking served by Twitter.
 
 > **The default branch has changed from `master` to `main`.**  
 > The old branch will remain but new changes will only be added to `main`.  
