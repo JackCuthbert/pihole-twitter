@@ -13,11 +13,14 @@
 0.0.0.0 pbs.twimg.com
 0.0.0.0 platform.twitter.com
 0.0.0.0 syndication.twitter.com
+0.0.0.0 t.co
 0.0.0.0 twitter.co
 0.0.0.0 twitter.co.uk
 0.0.0.0 twitter.com
 0.0.0.0 twitter.com.au
+0.0.0.0 video.twimg.com
 0.0.0.0 www.twitter.co
 0.0.0.0 www.twitter.co.uk
 0.0.0.0 www.twitter.com
 0.0.0.0 www.twitter.com.au
+0.0.0.0 x.com
