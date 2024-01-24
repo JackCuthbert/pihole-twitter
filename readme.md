@@ -1,10 +1,6 @@
-# pihole-twitter
+# pihole-twitter (pihole-x)
 
-Twitter DNS Blocklist for Pihole. This list blocks Twitter in it's entirety, not just ads or tracking served by Twitter.
-
-> **The default branch has changed from `master` to `main`.**  
-> The old branch will remain but new changes will only be added to `main`.  
-> Please update your PiHole adlists with the new URL below.
+X (formerly known as Twitter) DNS Blocklist for Pihole. This list blocks X (formerly known as Twitter) in it's entirety, not just ads or tracking served by X (formerly known as Twitter).
 
 ```
 https://raw.githubusercontent.com/JackCuthbert/pihole-twitter/main/pihole-twitter.txt
@@ -16,6 +12,8 @@ https://raw.githubusercontent.com/JackCuthbert/pihole-twitter/main/pihole-twitte
 2. Navigate to "Adlists"
 3. Copy this URL: `https://raw.githubusercontent.com/JackCuthbert/pihole-twitter/main/pihole-twitter.txt`
 4. Paste the URL in the address box and click on Add
+
+> This list also works with [AdguardHome](https://github.com/AdguardTeam/AdguardHome).
 
 ## Other lists
 
