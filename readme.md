@@ -29,6 +29,6 @@ https://raw.githubusercontent.com/JackCuthbert/pihole-twitter/main/pihole-twitte
 
 I sometimes maintain other lists:
 
-- [pihole-reddit](https://github.com/JackCuthbert/pihole-reddit): Block Reddit domains
+- [pihole-reddit](https://github.com/JackCuthbert/pihole-reddit): Block Reddit domains.
 - [pihole-splogs](https://github.com/JackCuthbert/pihole-splogs): Block low value GitHub or Stack Overflow spam blogs.
 - [pihole-ausnews](https://github.com/JackCuthbert/pihole-ausnews): Block non-Murdoch owned Australian News sites and services.
